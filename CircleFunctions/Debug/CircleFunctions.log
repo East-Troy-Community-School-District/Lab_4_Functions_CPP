@@ -1,0 +1,4 @@
+﻿  CircleFunctions.cpp
+\\et-fileserver\staff\pawnol\Desktop\CircleFunctions\CircleFunctions.cpp(42,63): error C3861: 'CalculateDiameter': identifier not found
+\\et-fileserver\staff\pawnol\Desktop\CircleFunctions\CircleFunctions.cpp(47,68): error C3861: 'CalculateCircumference': identifier not found
+\\et-fileserver\staff\pawnol\Desktop\CircleFunctions\CircleFunctions.cpp(52,59): error C3861: 'CalculateArea': identifier not found
